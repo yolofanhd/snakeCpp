@@ -1,0 +1,3 @@
+/home/dominik/CLionProjects/snake/CMakeFiles/snake.dir
+/home/dominik/CLionProjects/snake/CMakeFiles/edit_cache.dir
+/home/dominik/CLionProjects/snake/CMakeFiles/rebuild_cache.dir
